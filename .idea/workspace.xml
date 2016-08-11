@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad219ee8-8528-4a19-aa45-0873d9592c40" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/docs_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/docs_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/doc.rb" afterPath="$PROJECT_DIR$/app/models/doc.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
-    </list>
+    <list default="true" id="ad219ee8-8528-4a19-aa45-0873d9592c40" name="Default" comment="" />
     <ignored path="cabinet.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -607,12 +601,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1470862091670</updated>
-      <workItem from="1470862093697" duration="9653000" />
+      <workItem from="1470862093697" duration="9712000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9653000" />
+    <option name="totallyTimeSpent" value="9712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
