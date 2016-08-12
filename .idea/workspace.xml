@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad219ee8-8528-4a19-aa45-0873d9592c40" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/devise/registrations/new.html.erb" afterPath="$PROJECT_DIR$/app/views/devise/registrations/new.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" afterPath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/docs/_form.html.haml" afterPath="$PROJECT_DIR$/app/views/docs/_form.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/docs/edit.html.haml" afterPath="$PROJECT_DIR$/app/views/docs/edit.html.haml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/docs/new.html.haml" afterPath="$PROJECT_DIR$/app/views/docs/new.html.haml" />
-    </list>
+    <list default="true" id="ad219ee8-8528-4a19-aa45-0873d9592c40" name="Default" comment="" />
     <ignored path="cabinet.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -633,12 +627,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1470862091670</updated>
-      <workItem from="1470862093697" duration="16199000" />
+      <workItem from="1470862093697" duration="16475000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16199000" />
+    <option name="totallyTimeSpent" value="16475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
