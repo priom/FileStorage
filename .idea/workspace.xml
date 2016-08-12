@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad219ee8-8528-4a19-aa45-0873d9592c40" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/docs.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/docs.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/global.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/global.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/welcome.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/welcome.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/index.html.haml" afterPath="$PROJECT_DIR$/app/views/welcome/index.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/docs/index.html.haml" afterPath="$PROJECT_DIR$/app/views/docs/index.html.haml" />
     </list>
     <ignored path="cabinet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,34 +32,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.haml">
+      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/docs/index.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            <state relative-caret-position="216">
+              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="global.css.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/global.css.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="3" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="welcome.css.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome.css.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
-              <folding>
-                <element signature="e#1354#1574#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -80,7 +55,6 @@
         <option value="$PROJECT_DIR$/app/views/docs/new.html.haml" />
         <option value="$PROJECT_DIR$/app/views/docs/edit.html.haml" />
         <option value="$PROJECT_DIR$/app/views/docs/show.html.haml" />
-        <option value="$PROJECT_DIR$/app/views/docs/index.html.haml" />
         <option value="$PROJECT_DIR$/config/environments/development.rb" />
         <option value="$PROJECT_DIR$/app/models/doc.rb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
@@ -95,6 +69,7 @@
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.haml" />
         <option value="$PROJECT_DIR$/app/views/welcome/index.html.haml" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome.css.scss" />
+        <option value="$PROJECT_DIR$/app/views/docs/index.html.haml" />
       </list>
     </option>
   </component>
@@ -603,12 +578,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1470862091670</updated>
-      <workItem from="1470862093697" duration="13296000" />
+      <workItem from="1470862093697" duration="14117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13296000" />
+    <option name="totallyTimeSpent" value="14117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -829,14 +804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/docs/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -853,11 +820,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.haml">
+    <entry file="file://$PROJECT_DIR$/app/assets/images/callout_background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="261">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <element signature="e#1302#1522#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -869,18 +843,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/callout_background.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome.css.scss">
+    <entry file="file://$PROJECT_DIR$/app/views/docs/index.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
-          <folding>
-            <element signature="e#1354#1574#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="216">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>

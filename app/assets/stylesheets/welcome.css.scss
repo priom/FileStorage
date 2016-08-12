@@ -43,10 +43,8 @@
 }
 
 #callouts {
-  background-image: url(image_path("callout_background.jpg"));
+  background: url(image_path("callout_background.jpg")) no-repeat top center;
   background-size: cover;
-  background-repeat: no-repeat;
-  background-position: top center;
   width: 100%;
   min-height: 400px;
   display: table;
